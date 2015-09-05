@@ -35,7 +35,7 @@ body {
 	font-family: Verdana, serif;
 	font-size: 13px;
 	line-height: 1.7;
-	background-image: url('/../images/background.jpg');
+	background-image: url('/cafe-zrno/images/background.jpg');
 	background-size: cover;
     background-attachment: fixed;
 }
